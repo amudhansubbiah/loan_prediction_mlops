@@ -1,5 +1,11 @@
 outs:
+<<<<<<< HEAD
 - md5: cb79452c03b09b9177340becd549cbd9.dir
   size: 75312
   nfiles: 6
+=======
+- md5: 36ddc405edc9002b69d808dff8519650.dir
+  size: 0
+  nfiles: 4
+>>>>>>> parent of 188e121 (Data change1  - new file arrived)
   path: data
