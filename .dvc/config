@@ -1,4 +1,0 @@
-[core]
-    remote = loan_data_gdrive
-['remote "loan_data_gdrive"']
-    url = gdrive://1YwCXP-LAAkOhDE4zGMSZwAVEBGRx78kO
